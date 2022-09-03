@@ -42,7 +42,7 @@ IPv4 基岩版端口：22222
 >[Android（解验证版）](/Minecraft_for_Android "要致富，先撸树。")<br>
 >[Windows（需正版）](/Minecraft_for_Windows_10 "此生无悔入MC，来世愿做方块人。")
 
-## 游戏视频（雾
+## 游戏视频(确信)
 
 <div align="center">
 	<iframe src="//player.bilibili.com/player.html?aid=80433022&bvid=BV1GJ411x7h7&cid=137649199&page=1&high_quality=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
